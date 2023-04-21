@@ -1,0 +1,3 @@
+linea 1 cambio conflict
+linea 2 cambio conflict
+linea 3 cambio conflict
